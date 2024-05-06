@@ -1,6 +1,6 @@
 # ¡Hola soy Deboraabarca! 👋
 
-Frontend en proceso. En mi perfil encontrarás los lenguajes en los que mejor me desarrollo y los proximos proyectos que subiré ,así como próximas contribuciones
+Frontend Developer en proceso. En mi perfil encontrarás los lenguajes en los que mejor me desarrollo y los proximos proyectos que subiré ,así como próximas contribuciones
 ## Sobre mí
 
 - 💻 Desarrollador de [HTML,css,Js].
