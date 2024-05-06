@@ -1,4 +1,3 @@
-![Texto alternativo](README.md/baner-deb(1).png)
 
 # ¡Hola soy Deboraabarca! 👋
 
