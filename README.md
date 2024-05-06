@@ -1,4 +1,4 @@
-![Texto alternativo](deboraabarca/README.md/baner-deb.png)
+![Texto alternativo](deboraabarca/README.md/baner-deb(1).png)
 
 # ¡Hola soy Deboraabarca! 👋
 
