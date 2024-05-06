@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @deboraabarca
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# ¡Hola soy Deboraabarca! 👋
 
-<!---
-deboraabarca/deboraabarca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Diseñador y Desarrollador web en proceso. En mi perfil encontrarás los lenguajes en los que mejor me desarrollo y los proximos proyectos que subiré ,así como próximas contribuciones
+## Sobre mí
+
+- 💻 Desarrollador de [HTML,css,Js].
+- 📚 Siempre aprendiendo y explorando nuevas tecnologías.
+- 🌱 Obteniendo conocimientos y colaborando en la comunidad de desarrollo.
+
+## Contacto
+
+- 📧 [abarcazavalad@gmail.com]
+- 🐦 [isnwman10]
+- 💼 [linkedin.com/in/debora-abarca-zavala-2068782a3
